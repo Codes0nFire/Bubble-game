@@ -1,1 +1,1 @@
-This project is a bubblegame you can hit the target and score 10 points for it there is no reduction of points  for the wrong hits  but dont forgrt to look at the clock because you have gog only 60 sec for it 😂😉
+This project is a bubblegame you can hit the target and score 10 points for it there is no reduction of points  for the wrong hits  but dont forgrt to look at the clock because you have got only 60 sec for it 😂😉
